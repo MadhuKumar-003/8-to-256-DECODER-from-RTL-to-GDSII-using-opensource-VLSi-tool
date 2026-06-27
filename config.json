@@ -1,0 +1,9 @@
+{
+    "DESIGN_NAME": "decoder_8_to_256",
+    "VERILOG_FILES": "dir::src/decoder.v",
+    "CLOCK_PORT": null,
+    "CLOCK_PERIOD": 10.0,
+    "DESIGN_IS_CORE": 1,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 600 600"
+}
